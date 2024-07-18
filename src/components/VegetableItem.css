@@ -1,0 +1,22 @@
+/* VegetableItem.css */
+
+.vegetable-item {
+    margin-bottom: 10px;
+  }
+  
+  .vegetable-details {
+    display: flex;
+    align-items: center;
+  }
+  
+  .vegetable-details input {
+    width: 80px;
+    padding: 5px;
+    margin-left: 10px;
+  }
+  
+  .vegetable-actions button {
+    padding: 5px 10px;
+    margin-left: 10px;
+  }
+  
